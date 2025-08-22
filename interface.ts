@@ -1,4 +1,4 @@
-interface IAnimal {
+export interface IAnimal {
   nome: string;
   idade: number;
   estaVivo: boolean;
