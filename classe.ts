@@ -38,7 +38,6 @@ namespace Terrestres {
   }
 
   export let cachorro = new Cachorro("Robertinho"); 
-  // cachorro.correr();
 }
 
 namespace Marinhos {
@@ -50,7 +49,6 @@ namespace Marinhos {
 
   export let golfinho = new Golfinho("Dolphin");
   // golfinho.nadar();
-
 }
 
 Terrestres.cachorro.correr();
